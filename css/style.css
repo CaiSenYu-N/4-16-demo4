@@ -1,0 +1,12 @@
+.warp {
+  width: 400px;
+  height: 400px;
+  border: 1px solid orange;
+  margin: 0 auto;
+  padding-left: 78px;
+  padding-top: 73px;
+}
+
+.warp img {
+  margin: 0 auto;
+}
