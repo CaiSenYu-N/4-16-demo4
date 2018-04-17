@@ -3,6 +3,7 @@
   height: 400px;
   border: 1px solid ;
   text-align: center;
+  display: table-cell;
   vertical-align: middle;
 }
 
@@ -13,7 +14,7 @@
   width: 3px;
   vertical-align: middle;
 } */
-.warp ::before {
+/* .warp ::before {
   content: '';
   display: inline-block;
   height: 100%;
@@ -23,4 +24,4 @@
 .warp img {
   vertical-align: middle;
   background-color: blue;
-}
+} */
